@@ -1,0 +1,5 @@
+# Local build artifacts and runtime logs
+bin/
+obj/
+*.log
+*.tmp
